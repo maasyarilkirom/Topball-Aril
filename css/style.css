@@ -80,7 +80,7 @@ body{
     width: 120px;
     position: absolute;
     top: 20px;
-    right: 2%;
+    right: 0.1%;
     display: grid;
     place-items: center;
     background: #165397;
