@@ -73,6 +73,10 @@ body{
 {
     color: #165397;
 }
+#tutup-gambar
+{
+    z-index: 999;
+}
 /* login button */
 #navbar ul #login
 {
@@ -86,6 +90,7 @@ body{
     background: #165397;
     border-radius: 10px 20px;
     margin-left: 5%;
+    z-index: 999;
 }
 #navbar ul #login a
 {
@@ -101,7 +106,7 @@ body{
     position: absolute;
     top: calc(50% - 300px);
     right: 5%;
-    z-index: 999;
+    z-index: 998;
 }
 #image img
 {
